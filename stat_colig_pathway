@@ -1,0 +1,879 @@
+rat         NG   fmax   #PROTEIN  PATHWAY
+  1.000    21   1.000   21      REACT:R-HSA-193144             Estrogen biosynthesis
+  0.959   255   0.989  266      KEGG:hsa01100                  Metabolic pathways
+  0.952   479   0.990  503      REACT:R-HSA-1430728            Metabolism
+  1.000    56   1.000   56      REACT:R-HSA-556833             Metabolism of lipids and lipoproteins
+  1.000    24   1.000   24      REACT:R-HSA-196071             Metabolism of steroid hormones
+  1.000    16   1.000   16      KEGG:hsa04913                  Ovarian steroidogenesis
+  1.000   402   1.000  402      REACT:R-HSA-162582             Signal Transduction
+  1.000    20   1.000   20      KEGG:hsa00140                  Steroid hormone biosynthesis
+  1.000    12   1.000   12      REACT:R-HSA-2453902            The canonical retinoid cycle in rods (twilight vision)
+  1.000    13   1.000   13      REACT:R-HSA-2187338            Visual phototransduction
+  1.000   350   1.000  350      REACT:R-HSA-168256             Immune System
+  1.000   337   1.000  337      REACT:R-HSA-168249             Innate Immune System
+  0.957    45   0.957   47      REACT:R-HSA-15869              Metabolism of nucleotides
+  0.970    65   1.000   67      REACT:R-HSA-6798695            Neutrophil degranulation
+  1.000    20   1.000   20      KEGG:hsa00760                  Nicotinate and nicotinamide metabolism
+  1.000    12   1.000   12      REACT:R-HSA-74259              Purine catabolism
+  0.967    29   0.967   30      KEGG:hsa00230                  Purine metabolism
+  1.000    20   1.000   20      REACT:R-HSA-73847              Purine metabolism
+  1.000    20   1.000   20      REACT:R-HSA-74217              Purine salvage
+  0.975    39   0.975   40      KEGG:hsa00240                  Pyrimidine metabolism
+  0.953   163   1.000  171      KEGG:hsa04976                  Bile secretion
+  0.953   162   1.000  170      KEGG:hsa04966                  Collecting duct acid secretion
+  0.953   163   1.000  171      REACT:R-HSA-1237044            Erythrocytes take up carbon dioxide and release oxygen
+  0.953   163   1.000  171      REACT:R-HSA-1247673            Erythrocytes take up oxygen and release carbon dioxide
+  0.954   165   1.000  173      KEGG:hsa04971                  Gastric acid secretion
+  0.950   170   1.000  179      KEGG:hsa00910                  Nitrogen metabolism
+  0.953   163   1.000  171      REACT:R-HSA-1480926            O2/CO2 exchange in erythrocytes
+  0.957   178   1.000  186      KEGG:hsa04972                  Pancreatic secretion
+  0.953   162   1.000  170      KEGG:hsa04964                  Proximal tubule bicarbonate reclamation
+  0.950   170   1.000  179      REACT:R-HSA-1475029            Reversible hydration of carbon dioxide
+  1.000     7   1.000    7      REACT:R-HSA-1483249            Inositol phosphate metabolism
+  1.000     7   1.000    7      KEGG:hsa00562                  Inositol phosphate metabolism
+  1.000     4   1.000    4      KEGG:hsa_M00131                Inositol phosphate metabolism Ins(1 3 4 5)P4 => Ins(1 3 4)P3 => myo-inositol
+  1.000     7   1.000    7      KEGG:hsa04070                  Phosphatidylinositol signaling system
+  1.000     4   1.000    4      REACT:R-HSA-1855183            Synthesis of IP2 IP and Ins in the cytosol
+  1.000   105   1.000  105      REACT:R-HSA-176187             Activation of ATR in response to replication stress
+  1.000   103   1.000  103      REACT:R-HSA-68962              Activation of the pre-replicative complex
+  1.000   170   1.000  170      REACT:R-HSA-174143             APC/C-mediated degradation of cell cycle proteins
+  1.000   105   1.000  105      REACT:R-HSA-69017              CDK-mediated phosphorylation and removal of Cdc6
+  1.000   184   1.000  184      REACT:R-HSA-1640170            Cell Cycle
+  0.992   124   0.992  125      KEGG:hsa04110                  Cell cycle
+  1.000   109   1.000  109      REACT:R-HSA-69620              Cell Cycle Checkpoints
+  1.000   103   1.000  103      KEGG:hsa_M00692                Cell cycle - G1/S transition
+  1.000   104   1.000  104      KEGG:hsa_M00693                Cell cycle - G2/M transition
+  1.000   181   1.000  181      REACT:R-HSA-69278              Cell Cycle Mitotic
+  1.000   119   1.000  119      REACT:R-HSA-2262752            Cellular responses to stress
+  1.000   106   1.000  106      REACT:R-HSA-2559583            Cellular Senescence
+  1.000   106   1.000  106      REACT:R-HSA-69273              Cyclin A/B1 associated events during G2/M transition
+  1.000   106   1.000  106      REACT:R-HSA-69656              Cyclin A:Cdk2-associated events at S phase entry
+  1.000   106   1.000  106      REACT:R-HSA-69202              Cyclin E associated events during G1/S transition
+  1.000   103   1.000  103      REACT:R-HSA-2559586            DNA Damage/Telomere Stress Induced Senescence
+  0.991   111   0.991  112      REACT:R-HSA-5693532            DNA Double-Strand Break Repair
+  0.991   113   0.991  114      REACT:R-HSA-73894              DNA Repair
+  1.000   105   1.000  105      REACT:R-HSA-69306              DNA Replication
+  1.000   105   1.000  105      REACT:R-HSA-69002              DNA Replication Pre-Initiation
+  1.000   164   1.000  164      KEGG:hsa05169                  Epstein-Barr virus infection
+  1.000   161   1.000  161      REACT:R-HSA-983231             Factors involved in megakaryocyte development and platelet production
+  1.000   174   1.000  174      KEGG:hsa04068                  FoxO signaling pathway
+  1.000   105   1.000  105      REACT:R-HSA-1538133            G0 and Early G1
+  1.000   108   1.000  108      REACT:R-HSA-69615              G1/S DNA Damage Checkpoints
+  1.000   112   1.000  112      REACT:R-HSA-69206              G1/S Transition
+  1.000   109   1.000  109      REACT:R-HSA-69481              G2/M Checkpoints
+  1.000   163   1.000  163      REACT:R-HSA-69275              G2/M Transition
+  1.000   103   1.000  103      REACT:R-HSA-68911              G2 Phase
+  0.966   252   0.996  261      REACT:R-HSA-74160              Gene Expression
+  0.968   241   1.000  249      REACT:R-HSA-212436             Generic Transcription Pathway
+  0.991   107   0.991  108      REACT:R-HSA-5693567            HDR through Homologous Recombination (HR) or Single Strand Annealing (SSA)
+  1.000   286   1.000  286      REACT:R-HSA-109582             Hemostasis
+  1.000   159   1.000  159      KEGG:hsa05161                  Hepatitis B
+  1.000   202   1.000  202      KEGG:hsa05168                  Herpes simplex infection
+  0.991   108   0.991  109      REACT:R-HSA-5693538            Homology Directed Repair
+  1.000   246   1.000  246      KEGG:hsa05162                  Measles
+  1.000   103   1.000  103      REACT:R-HSA-1500620            Meiosis
+  1.000   103   1.000  103      REACT:R-HSA-912446             Meiotic recombination
+  1.000   105   1.000  105      REACT:R-HSA-68874              M/G1 Transition
+  1.000   113   1.000  113      REACT:R-HSA-453279             Mitotic G1-G1/S phases
+  1.000   163   1.000  163      REACT:R-HSA-453274             Mitotic G2-G2/M phases
+  1.000   176   1.000  176      KEGG:hsa04114                  Oocyte meiosis
+  1.000   105   1.000  105      REACT:R-HSA-68949              Orc1 removal from chromatin
+  1.000   106   1.000  106      REACT:R-HSA-69563              p53-Dependent G1 DNA Damage Response
+  1.000   106   1.000  106      REACT:R-HSA-69580              p53-Dependent G1/S DNA damage checkpoint
+  1.000   107   1.000  107      KEGG:hsa04115                  p53 signaling pathway
+  1.000   213   1.000  213      KEGG:hsa05200                  Pathways in cancer
+  1.000   103   1.000  103      REACT:R-HSA-69200              Phosphorylation of proteins involved in G1/S transition by active Cyclin E:Cdk2 complexes
+  1.000   294   1.000  294      KEGG:hsa04151                  PI3K-Akt signaling pathway
+  1.000   106   1.000  106      REACT:R-HSA-5693607            Processing of DNA double-strand break ends
+  1.000   124   1.000  124      KEGG:hsa04914                  Progesterone-mediated oocyte maturation
+  1.000   178   1.000  178      KEGG:hsa05215                  Prostate cancer
+  1.000   104   1.000  104      REACT:R-HSA-8849470            PTK6 Regulates Cell Cycle
+  1.000   108   1.000  108      REACT:R-HSA-176408             Regulation of APC/C activators between G1/S and early anaphase
+  1.000   105   1.000  105      REACT:R-HSA-69304              Regulation of DNA replication
+  1.000   170   1.000  170      REACT:R-HSA-453276             Regulation of mitotic cell cycle
+  1.000   211   1.000  211      REACT:R-HSA-5633007            Regulation of TP53 Activity
+  1.000   169   1.000  169      REACT:R-HSA-6804756            Regulation of TP53 Activity through Phosphorylation
+  1.000   146   1.000  146      REACT:R-HSA-6804757            Regulation of TP53 Degradation
+  1.000   146   1.000  146      REACT:R-HSA-6806003            Regulation of TP53 Expression and Degradation
+  1.000   105   1.000  105      REACT:R-HSA-69300              Removal of licensing factors from origins
+  1.000   106   1.000  106      REACT:R-HSA-187577             SCF(Skp2)-mediated degradation of p27/p21
+  1.000   103   1.000  103      REACT:R-HSA-2559582            Senescence-Associated Secretory Phenotype (SASP)
+  1.000   109   1.000  109      REACT:R-HSA-8848021            Signaling by PTK6
+  1.000   106   1.000  106      KEGG:hsa05222                  Small cell lung cancer
+  1.000   106   1.000  106      REACT:R-HSA-69242              S Phase
+  1.000   105   1.000  105      REACT:R-HSA-69052              Switching of origins to a post-replicative state
+  1.000   105   1.000  105      REACT:R-HSA-69239              Synthesis of DNA
+  1.000   154   1.000  154      REACT:R-HSA-6791312            TP53 Regulates Transcription of Cell Cycle Genes
+  1.000   103   1.000  103      REACT:R-HSA-6804116            TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest
+  0.967   234   1.000  242      REACT:R-HSA-3700989            Transcriptional Regulation by TP53
+  1.000   163   1.000  163      KEGG:hsa05203                  Viral carcinogenesis
+  0.889     8   0.889    9      KEGG:hsa00983                  Drug metabolism - other enzymes
+  1.000     6   1.000    6      REACT:R-HSA-1592389            Activation of Matrix Metalloproteinases
+  1.000     5   1.000    5      REACT:R-HSA-196741             Cobalamin (Cbl vitamin B12) transport and metabolism
+  1.000     6   1.000    6      REACT:R-HSA-1474228            Degradation of the extracellular matrix
+  1.000     7   1.000    7      REACT:R-HSA-1474244            Extracellular matrix organization
+  1.000   159   1.000  159      KEGG:hsa05164                  Influenza A
+  0.926    25   1.000   27      REACT:R-HSA-196854             Metabolism of vitamins and cofactors
+  0.926    25   1.000   27      REACT:R-HSA-196849             Metabolism of water-soluble vitamins and cofactors
+  1.000     8   1.000    8      KEGG:hsa04080                  Neuroactive ligand-receptor interaction
+  1.000     6   1.000    6      KEGG:hsa04974                  Protein digestion and absorption
+  1.000    13   1.000   13      KEGG:hsa04610                  Complement and coagulation cascades
+  1.000     5   1.000    5      REACT:R-HSA-75205              Dissolution of Fibrin Clot
+  0.962    75   0.987   78      KEGG:hsa05206                  MicroRNAs in cancer
+  1.000    69   1.000   69      KEGG:hsa04064                  NF-kappa B signaling pathway
+  1.000    93   1.000   93      KEGG:hsa05205                  Proteoglycans in cancer
+  1.000    19   1.000   19      KEGG:hsa05202                  Transcriptional misregulation in cancer
+  1.000    58   1.000   58      KEGG:hsa04152                  AMPK signaling pathway
+  1.000     2   1.000    2      KEGG:hsa00051                  Fructose and mannose metabolism
+  0.909    10   0.909   11      KEGG:hsa04922                  Glucagon signaling pathway
+  1.000     4   1.000    4      REACT:R-HSA-70263              Gluconeogenesis
+  0.950    19   0.950   20      REACT:R-HSA-70326              Glucose metabolism
+  1.000     4   1.000    4      REACT:R-HSA-70171              Glycolysis
+  1.000     5   1.000    5      REACT:R-HSA-163685             Integration of energy metabolism
+  0.967    29   0.967   30      REACT:R-HSA-71387              Metabolism of carbohydrates
+  1.000     2   1.000    2      REACT:R-HSA-163358             PKA-mediated phosphorylation of key metabolic factors
+  1.000     2   1.000    2      REACT:R-HSA-163767             PP2A-mediated dephosphorylation of key metabolic factors
+  0.875     7   0.875    8      KEGG:hsa00270                  Cysteine and methionine metabolism
+  0.967    29   0.967   30      REACT:R-HSA-71291              Metabolism of amino acids and derivatives
+  1.000    21   1.000   21      REACT:R-HSA-351202             Metabolism of polyamines
+  1.000     3   1.000    3      REACT:R-HSA-1237112            Methionine salvage pathway
+  1.000     3   1.000    3      KEGG:hsa_M00034                Methionine salvage pathway
+  1.000     6   1.000    6      REACT:R-HSA-1614635            Sulfur amino acid metabolism
+  1.000     3   1.000    3      KEGG:hsa04261                  Adrenergic signaling in cardiomyocytes
+  0.947    18   0.947   19      KEGG:hsa05034                  Alcoholism
+  1.000     6   1.000    6      KEGG:hsa04925                  Aldosterone synthesis and secretion
+  1.000     3   1.000    3      KEGG:hsa05031                  Amphetamine addiction
+  1.000    27   1.000   27      KEGG:hsa04371                  Apelin signaling pathway
+  1.000     2   1.000    2      REACT:R-HSA-445717             Aquaporin-mediated transport
+  1.000    26   1.000   26      KEGG:hsa04024                  cAMP signaling pathway
+  1.000    21   1.000   21      KEGG:hsa04022                  cGMP-PKG signaling pathway
+  1.000    89   1.000   89      KEGG:hsa04062                  Chemokine signaling pathway
+  1.000    72   1.000   72      KEGG:hsa04725                  Cholinergic synapse
+  1.000     3   1.000    3      KEGG:hsa04713                  Circadian entrainment
+  1.000   216   1.000  216      REACT:R-HSA-2172127            DAP12 interactions
+  1.000   216   1.000  216      REACT:R-HSA-2424491            DAP12 signaling
+  1.000     8   1.000    8      KEGG:hsa04728                  Dopaminergic synapse
+  1.000   208   1.000  208      REACT:R-HSA-186763             Downstream signal transduction
+  1.000     5   1.000    5      REACT:R-HSA-212718             EGFR interacts with phospholipase C-gamma
+  1.000    34   1.000   34      KEGG:hsa01522                  Endocrine resistance
+  1.000    23   1.000   23      KEGG:hsa04915                  Estrogen signaling pathway
+  1.000     2   1.000    2      KEGG:hsa04727                  GABAergic synapse
+  1.000     2   1.000    2      REACT:R-HSA-418597             G alpha (z) signalling events
+  1.000    28   1.000   28      KEGG:hsa04540                  Gap junction
+  1.000    27   1.000   27      KEGG:hsa04912                  GnRH signaling pathway
+  1.000   144   1.000  144      REACT:R-HSA-388396             GPCR downstream signaling
+  1.000     3   1.000    3      REACT:R-HSA-5610787            Hedgehog 'off' state
+  1.000    61   1.000   61      KEGG:hsa05166                  HTLV-I infection
+  1.000     6   1.000    6      KEGG:hsa04750                  Inflammatory mediator regulation of TRP channels
+  1.000     3   1.000    3      KEGG:hsa04911                  Insulin secretion
+  1.000    15   1.000   15      KEGG:hsa04211                  Longevity regulating pathway
+  1.000    13   1.000   13      KEGG:hsa04213                  Longevity regulating pathway - multiple species
+  1.000    20   1.000   20      KEGG:hsa04916                  Melanogenesis
+  1.000    50   1.000   50      REACT:R-HSA-112316             Neuronal System
+  1.000    44   1.000   44      REACT:R-HSA-112314             Neurotransmitter Receptor Binding And Downstream Transmission In The Postsynaptic Cell
+  1.000   210   1.000  210      REACT:R-HSA-187037             NGF signalling via TRKA from the plasma membrane
+  0.971    34   0.971   35      KEGG:hsa04921                  Oxytocin signaling pathway
+  0.830    39   1.000   47      KEGG:hsa05012                  Parkinson's disease
+  1.000    31   1.000   31      KEGG:hsa04072                  Phospholipase D signaling pathway
+  1.000    11   1.000   11      KEGG:hsa04611                  Platelet activation
+  1.000     2   1.000    2      REACT:R-HSA-167021             PLC-gamma1 signalling
+  1.000    43   1.000   43      KEGG:hsa04015                  Rap1 signaling pathway
+  1.000     2   1.000    2      REACT:R-HSA-422356             Regulation of insulin secretion
+  1.000     3   1.000    3      KEGG:hsa04923                  Regulation of lipolysis in adipocytes
+  1.000     6   1.000    6      KEGG:hsa04970                  Salivary secretion
+  1.000    17   1.000   17      KEGG:hsa04726                  Serotonergic synapse
+  1.000   210   1.000  210      REACT:R-HSA-177929             Signaling by EGFR
+  1.000   198   1.000  198      REACT:R-HSA-372790             Signaling by GPCR
+  1.000     4   1.000    4      REACT:R-HSA-5358351            Signaling by Hedgehog
+  1.000   208   1.000  208      REACT:R-HSA-186797             Signaling by PDGF
+  1.000   210   1.000  210      REACT:R-HSA-166520             Signalling by NGF
+  1.000     3   1.000    3      KEGG:hsa04918                  Thyroid hormone synthesis
+  1.000    10   1.000   10      REACT:R-HSA-382551             Transmembrane transport of small molecules
+  1.000    50   1.000   50      REACT:R-HSA-112315             Transmission across Chemical Synapses
+  1.000    22   1.000   22      KEGG:hsa04270                  Vascular smooth muscle contraction
+  1.000     2   1.000    2      REACT:R-HSA-432040             Vasopressin regulates renal water homeostasis via Aquaporins
+  0.976    40   0.976   41      KEGG:hsa05418                  Fluid shear stress and atherosclerosis
+  1.000    17   1.000   17      REACT:R-HSA-350562             Regulation of ornithine decarboxylase (ODC)
+  1.000    15   1.000   15      KEGG:hsa00130                  Ubiquinone and other terpenoid-quinone biosynthesis
+  1.000     5   1.000    5      KEGG:hsa01523                  Antifolate resistance
+  1.000     6   1.000    6      REACT:R-HSA-113510             E2F mediated regulation of DNA replication
+  1.000     7   1.000    7      REACT:R-HSA-203765             eNOS activation and regulation
+  1.000     7   1.000    7      KEGG:hsa00790                  Folate biosynthesis
+  1.000     6   1.000    6      REACT:R-HSA-69205              G1/S-Specific Transcription
+  1.000     4   1.000    4      REACT:R-HSA-196757             Metabolism of folate and pterines
+  1.000     7   1.000    7      REACT:R-HSA-202131             Metabolism of nitric oxide
+  1.000     5   1.000    5      KEGG:hsa00670                  One carbon pool by folate
+  1.000     7   1.000    7      REACT:R-HSA-1474151            Tetrahydrobiopterin (BH4) synthesis recycling salvage and regulation
+  0.938    15   0.938   16      REACT:R-HSA-499943             Synthesis and interconversion of nucleotide di- and triphosphates
+  1.000    15   1.000   15      REACT:R-HSA-446203             Asparagine N-linked glycosylation
+  1.000     8   1.000    8      REACT:R-HSA-1187000            Fertilization
+  1.000     8   1.000    8      KEGG:hsa00052                  Galactose metabolism
+  1.000     8   1.000    8      KEGG:hsa00533                  Glycosaminoglycan biosynthesis - keratan sulfate
+  1.000     9   1.000    9      REACT:R-HSA-1630316            Glycosaminoglycan metabolism
+  1.000    68   1.000   68      KEGG:hsa00601                  Glycosphingolipid biosynthesis - lacto and neolacto series
+  1.000     8   1.000    8      KEGG:hsa_M00071                Glycosphingolipid biosynthesis neolacto-series LacCer => nLc4Cer
+  1.000     8   1.000    8      REACT:R-HSA-1300644            Interaction With The Zona Pellucida
+  1.000     8   1.000    8      REACT:R-HSA-2022854            Keratan sulfate biosynthesis
+  1.000     8   1.000    8      REACT:R-HSA-1638074            Keratan sulfate/keratin metabolism
+  1.000     8   1.000    8      REACT:R-HSA-5653890            Lactose synthesis
+  1.000     9   1.000    9      KEGG:hsa00515                  Mannose type O-glycan biosynthesis
+  1.000    93   1.000   93      REACT:R-HSA-392499             Metabolism of proteins
+  1.000     8   1.000    8      REACT:R-HSA-975577             N-Glycan antennae elongation
+  1.000     8   1.000    8      REACT:R-HSA-975576             N-glycan antennae elongation in the medial/trans-Golgi
+  1.000     8   1.000    8      KEGG:hsa00510                  N-Glycan biosynthesis
+  1.000     8   1.000    8      KEGG:hsa_M00075                N-glycan biosynthesis complex type
+  1.000     8   1.000    8      KEGG:hsa00514                  Other types of O-glycan biosynthesis
+  1.000    92   1.000   92      REACT:R-HSA-597592             Post-translational protein modification
+  1.000     8   1.000    8      REACT:R-HSA-1912422            Pre-NOTCH Expression and Processing
+  1.000     8   1.000    8      REACT:R-HSA-1912420            Pre-NOTCH Processing in Golgi
+  1.000     8   1.000    8      REACT:R-HSA-1474165            Reproduction
+  1.000     8   1.000    8      REACT:R-HSA-157118             Signaling by NOTCH
+  1.000    12   1.000   12      REACT:R-HSA-948021             Transport to the Golgi and subsequent modification
+  0.973   107   0.991  110      REACT:R-HSA-211859             Biological oxidations
+  0.974    37   0.974   38      KEGG:hsa05204                  Chemical carcinogenesis
+  0.970    32   0.970   33      KEGG:hsa00982                  Drug metabolism - cytochrome P450
+  0.971    33   0.971   34      REACT:R-HSA-156590             Glutathione conjugation
+  0.971    33   0.971   34      KEGG:hsa00480                  Glutathione metabolism
+  0.974    38   0.974   39      KEGG:hsa00980                  Metabolism of xenobiotics by cytochrome P450
+  0.974    38   0.974   39      REACT:R-HSA-156580             Phase II conjugation
+  0.982    56   0.982   57      KEGG:hsa01524                  Platinum drug resistance
+  0.818     9   1.000   11      KEGG:hsa00520                  Amino sugar and nucleotide sugar metabolism
+  0.972    69   1.000   71      REACT:R-HSA-211945             Phase 1 - Functionalization of compounds
+  0.818     9   1.000   11      REACT:R-HSA-196836             Vitamin C (ascorbate) metabolism
+  1.000    97   1.000   97      REACT:R-HSA-1280218            Adaptive Immune System
+  1.000    16   1.000   16      KEGG:hsa04520                  Adherens junction
+  1.000    44   1.000   44      KEGG:hsa04960                  Aldosterone-regulated sodium reabsorption
+  1.000    78   1.000   78      REACT:R-HSA-1168372            Downstream signaling events of B Cell Receptor (BCR)
+  1.000   224   1.000  224      REACT:R-HSA-2454202            Fc epsilon receptor (FCERI) signaling
+  1.000    75   1.000   75      REACT:R-HSA-180292             GAB1 signalosome
+  1.000    33   1.000   33      KEGG:hsa04066                  HIF-1 signaling pathway
+  1.000     3   1.000    3      REACT:R-HSA-77387              Insulin receptor recycling
+  1.000   202   1.000  202      REACT:R-HSA-74751              Insulin receptor signalling cascade
+  1.000    53   1.000   53      KEGG:hsa04931                  Insulin resistance
+  0.986    71   0.986   72      KEGG:hsa04910                  Insulin signaling pathway
+  1.000     2   1.000    2      REACT:R-HSA-74713              IRS activation
+  1.000    69   1.000   69      KEGG:hsa04150                  mTOR signaling pathway
+  1.000    34   1.000   34      REACT:R-HSA-199418             Negative regulation of the PI3K/AKT network
+  0.849    45   1.000   53      KEGG:hsa04932                  Non-alcoholic fatty liver disease (NAFLD)
+  1.000    77   1.000   77      REACT:R-HSA-198203             PI3K/AKT activation
+  1.000     2   1.000    2      KEGG:hsa_M00676                PI3K-Akt signaling
+  1.000    34   1.000   34      REACT:R-HSA-6811558            PI5P PP2A and IER3 Regulate PI3K/AKT Signaling
+  1.000    75   1.000   75      REACT:R-HSA-1257604            PIP3 activates AKT signaling
+  1.000    91   1.000   91      KEGG:hsa04014                  Ras signaling pathway
+  1.000    81   1.000   81      REACT:R-HSA-2730905            Role of LAT2/NTAL/LAB on calcium mobilization
+  1.000     2   1.000    2      REACT:R-HSA-74749              Signal attenuation
+  1.000   203   1.000  203      REACT:R-HSA-74752              Signaling by Insulin receptor
+  1.000   209   1.000  209      REACT:R-HSA-1433557            Signaling by SCF-KIT
+  1.000    86   1.000   86      REACT:R-HSA-983705             Signaling by the B Cell Receptor (BCR)
+  1.000     2   1.000    2      KEGG:hsa04930                  Type II diabetes mellitus
+  1.000     6   1.000    6      REACT:R-HSA-196807             Nicotinate metabolism
+  1.000     3   1.000    3      REACT:R-HSA-163125             Post-translational modification: synthesis of GPI-anchored proteins
+  1.000    29   1.000   29      KEGG:hsa00590                  Arachidonic acid metabolism
+  1.000    26   1.000   26      REACT:R-HSA-2142753            Arachidonic acid metabolism
+  1.000    24   1.000   24      REACT:R-HSA-2162123            Synthesis of Prostaglandins (PG) and Thromboxanes (TX)
+  1.000    81   1.000   81      KEGG:hsa04140                  Autophagy - animal
+  1.000    30   1.000   30      KEGG:hsa05224                  Breast cancer
+  1.000   133   1.000  133      KEGG:hsa01521                  EGFR tyrosine kinase inhibitor resistance
+  1.000    33   1.000   33      KEGG:hsa04144                  Endocytosis
+  1.000   114   1.000  114      KEGG:hsa04510                  Focal adhesion
+  1.000    24   1.000   24      KEGG:hsa05214                  Glioma
+  1.000   201   1.000  201      REACT:R-HSA-2428924            IGF1R signaling cascade
+  1.000   201   1.000  201      REACT:R-HSA-2428928            IRS-related events triggered by IGF1R
+  1.000    18   1.000   18      KEGG:hsa04730                  Long-term depression
+  1.000    26   1.000   26      KEGG:hsa05218                  Melanoma
+  1.000   201   1.000  201      REACT:R-HSA-2404192            Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+  1.000   128   1.000  128      KEGG:hsa04550                  Signaling pathways regulating pluripotency of stem cells
+  1.000     8   1.000    8      KEGG:hsa00260                  Glycine serine and threonine metabolism
+  1.000     4   1.000    4      KEGG:hsa01230                  Biosynthesis of amino acids
+  1.000     4   1.000    4      KEGG:hsa01200                  Carbon metabolism
+  1.000     3   1.000    3      KEGG:hsa_M00050                Guanine ribonucleotide biosynthesis IMP => GDP GTP
+  1.000     3   1.000    3      KEGG:hsa05146                  Amoebiasis
+  0.963    26   0.963   27      REACT:R-HSA-109581             Apoptosis
+  0.929    13   0.929   14      REACT:R-HSA-111465             Apoptotic cleavage of cellular proteins
+  0.929    13   0.929   14      REACT:R-HSA-75153              Apoptotic execution phase
+  1.000   151   1.000  151      REACT:R-HSA-170984             ARMS-mediated activation
+  1.000   203   1.000  203      REACT:R-HSA-422475             Axon guidance
+  1.000    64   1.000   64      KEGG:hsa04360                  Axon guidance
+  1.000    10   1.000   10      KEGG:hsa05100                  Bacterial invasion of epithelial cells
+  1.000    10   1.000   10      REACT:R-HSA-1500931            Cell-Cell communication
+  1.000   223   1.000  223      REACT:R-HSA-1280215            Cytokine Signaling in Immune system
+  1.000     6   1.000    6      REACT:R-HSA-418885             DCC mediated attractive signaling
+  1.000   204   1.000  204      REACT:R-HSA-1266738            Developmental Biology
+  1.000    10   1.000   10      REACT:R-HSA-3928663            EPHA-mediated growth cone collapse
+  1.000    12   1.000   12      REACT:R-HSA-3928662            EPHB-mediated forward signaling
+  1.000    18   1.000   18      REACT:R-HSA-2682334            EPH-Ephrin signaling
+  1.000    78   1.000   78      KEGG:hsa04012                  ErbB signaling pathway
+  1.000   161   1.000  161      REACT:R-HSA-2871796            FCERI mediated MAPK activation
+  1.000    21   1.000   21      REACT:R-HSA-2029480            Fcgamma receptor (FCGR) dependent phagocytosis
+  1.000   151   1.000  151      REACT:R-HSA-170968             Frs2-mediated activation
+  1.000   153   1.000  153      REACT:R-HSA-881907             Gastrin-CREB signalling pathway via PKC and MAPK
+  1.000   150   1.000  150      REACT:R-HSA-179812             GRB2 events in EGFR signaling
+  1.000     4   1.000    4      REACT:R-HSA-354194             GRB2:SOS provides linkage to MAPK signaling for Integrins
+  1.000    51   1.000   51      REACT:R-HSA-354192             Integrin alphaIIb beta3 signaling
+  1.000   170   1.000  170      REACT:R-HSA-451927             Interleukin-2 signaling
+  1.000   156   1.000  156      REACT:R-HSA-512988             Interleukin-3 5 and GM-CSF signaling
+  1.000   150   1.000  150      REACT:R-HSA-912526             Interleukin receptor SHC signaling
+  1.000   200   1.000  200      REACT:R-HSA-112399             IRS-mediated signalling
+  1.000     8   1.000    8      KEGG:hsa04670                  Leukocyte transendothelial migration
+  1.000   154   1.000  154      REACT:R-HSA-5684996            MAPK1/MAPK3 signaling
+  1.000   162   1.000  162      REACT:R-HSA-5683057            MAPK family signaling cascades
+  1.000     7   1.000    7      REACT:R-HSA-8874081            MET activates PTK2 signaling
+  1.000     7   1.000    7      REACT:R-HSA-8875878            MET promotes cell motility
+  1.000   150   1.000  150      REACT:R-HSA-375165             NCAM signaling for neurite out-growth
+  1.000     7   1.000    7      REACT:R-HSA-373752             Netrin-1 signaling
+  1.000     4   1.000    4      REACT:R-HSA-418886             Netrin mediated repulsion signals
+  1.000     4   1.000    4      REACT:R-HSA-372708             p130Cas linkage to MAPK signaling for integrins
+  1.000   169   1.000  169      REACT:R-HSA-76002              Platelet activation signaling and aggregation
+  1.000    53   1.000   53      REACT:R-HSA-76009              Platelet Aggregation (Plug Formation)
+  0.963    26   0.963   27      REACT:R-HSA-5357801            Programmed Cell Death
+  1.000   151   1.000  151      REACT:R-HSA-169893             Prolonged ERK activation events
+  1.000   150   1.000  150      REACT:R-HSA-5673001            RAF/MAP kinase cascade
+  1.000    82   1.000   82      KEGG:hsa04810                  Regulation of actin cytoskeleton
+  1.000    20   1.000   20      REACT:R-HSA-2029482            Regulation of actin dynamics for phagocytic cup formation
+  1.000   150   1.000  150      REACT:R-HSA-8853659            RET signaling
+  1.000    72   1.000   72      REACT:R-HSA-195258             RHO GTPase Effectors
+  0.889     8   0.889    9      REACT:R-HSA-5663213            RHO GTPases Activate WASPs and WAVEs
+  1.000   150   1.000  150      REACT:R-HSA-180336             SHC1 events in EGFR signaling
+  1.000   220   1.000  220      REACT:R-HSA-449147             Signaling by Interleukins
+  1.000   150   1.000  150      REACT:R-HSA-2586552            Signaling by Leptin
+  1.000     7   1.000    7      REACT:R-HSA-6806834            Signaling by MET
+  1.000    74   1.000   74      REACT:R-HSA-194315             Signaling by Rho GTPases
+  1.000   200   1.000  200      REACT:R-HSA-194138             Signaling by VEGF
+  1.000   151   1.000  151      REACT:R-HSA-187687             Signalling to ERKs
+  1.000   151   1.000  151      REACT:R-HSA-187706             Signalling to p38 via RIT and RIN
+  1.000   151   1.000  151      REACT:R-HSA-167044             Signalling to RAS
+  1.000     4   1.000    4      REACT:R-HSA-391160             Signal regulatory protein (SIRP) family interactions
+  1.000   150   1.000  150      REACT:R-HSA-112412             SOS-mediated signalling
+  1.000   200   1.000  200      REACT:R-HSA-4420097            VEGFA-VEGFR2 Pathway
+  1.000   191   1.000  191      REACT:R-HSA-5218921            VEGFR2 mediated cell proliferation
+  1.000    23   1.000   23      KEGG:hsa04370                  VEGF signaling pathway
+  1.000    65   1.000   65      REACT:R-HSA-174178             APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/earl
+  1.000    58   1.000   58      REACT:R-HSA-8854518            AURKA Activation by TPX2
+  1.000    52   1.000   52      REACT:R-HSA-8854050            FBXL7 down-regulates AURKA during mitotic entry and in early mitosis
+  1.000    50   1.000   50      REACT:R-HSA-8854521            Interaction between PHLDA1 and AURKA
+  1.000    58   1.000   58      REACT:R-HSA-2565942            Regulation of PLK1 Activity at G2/M Transition
+  1.000    62   1.000   62      REACT:R-HSA-3108232            SUMO E3 ligases SUMOylate target proteins
+  1.000    62   1.000   62      REACT:R-HSA-2990846            SUMOylation
+  1.000    61   1.000   61      REACT:R-HSA-4615885            SUMOylation of DNA replication proteins
+  1.000    51   1.000   51      REACT:R-HSA-6804114            TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest
+  1.000     2   1.000    2      REACT:R-HSA-389661             Glyoxylate metabolism and glycine degradation
+  1.000     2   1.000    2      REACT:R-HSA-2408508            Metabolism of ingested SeMet Sec MeSec into H2Se
+  1.000     2   1.000    2      REACT:R-HSA-2408522            Selenoamino acid metabolism
+  1.000    41   1.000   41      REACT:R-HSA-165158             Activation of AKT2
+  1.000    43   1.000   43      REACT:R-HSA-442755             Activation of NMDA receptor upon glutamate binding and postsynaptic events
+  1.000    63   1.000   63      KEGG:hsa04210                  Apoptosis
+  1.000    64   1.000   64      REACT:R-HSA-389356             CD28 co-stimulation
+  1.000    55   1.000   55      REACT:R-HSA-389357             CD28 dependent PI3K/Akt signaling
+  1.000    69   1.000   69      KEGG:hsa05231                  Choline metabolism in cancer
+  1.000    51   1.000   51      REACT:R-HSA-5607764            CLEC7A (Dectin-1) signaling
+  1.000    41   1.000   41      REACT:R-HSA-5674400            Constitutive Signaling by AKT1 E17K in Cancer
+  1.000    64   1.000   64      REACT:R-HSA-388841             Costimulation by the CD28 family
+  1.000    43   1.000   43      REACT:R-HSA-442742             CREB phosphorylation through the activation of Ras
+  1.000    56   1.000   56      REACT:R-HSA-389513             CTLA4 inhibitory signaling
+  1.000    57   1.000   57      REACT:R-HSA-5621481            C-type lectin receptors (CLRs)
+  1.000   210   1.000  210      REACT:R-HSA-1643685            Disease
+  1.000   149   1.000  149      REACT:R-HSA-5663202            Diseases of signal transduction
+  1.000    59   1.000   59      REACT:R-HSA-202424             Downstream TCR signaling
+  1.000    62   1.000   62      KEGG:hsa05213                  Endometrial cancer
+  1.000    66   1.000   66      KEGG:hsa04664                  Fc epsilon RI signaling pathway
+  1.000    45   1.000   45      REACT:R-HSA-2871837            FCERI mediated NF-kB activation
+  1.000   138   1.000  138      REACT:R-HSA-392451             G beta:gamma signalling through PI3Kgamma
+  1.000   138   1.000  138      REACT:R-HSA-397795             G-protein beta:gamma signalling
+  1.000   160   1.000  160      REACT:R-HSA-114604             GPVI-mediated activation cascade
+  1.000    89   1.000   89      KEGG:hsa05160                  Hepatitis C
+  1.000   108   1.000  108      KEGG:hsa04722                  Neurotrophin signaling pathway
+  1.000    69   1.000   69      KEGG:hsa05223                  Non-small cell lung cancer
+  1.000    72   1.000   72      REACT:R-HSA-2219528            PI3K/AKT Signaling in Cancer
+  1.000    60   1.000   60      REACT:R-HSA-109704             PI3K Cascade
+  1.000    43   1.000   43      REACT:R-HSA-438064             Post NMDA receptor activation events
+  1.000    41   1.000   41      KEGG:hsa03320                  PPAR signaling pathway
+  1.000    42   1.000   42      REACT:R-HSA-5625740            RHO GTPases activate PKNs
+  1.000    41   1.000   41      REACT:R-HSA-444257             RSK activation
+  1.000    62   1.000   62      KEGG:hsa04071                  Sphingolipid signaling pathway
+  1.000   121   1.000  121      KEGG:hsa04660                  T cell receptor signaling pathway
+  1.000    67   1.000   67      REACT:R-HSA-202403             TCR signaling
+  1.000    59   1.000   59      KEGG:hsa04919                  Thyroid hormone signaling pathway
+  1.000   175   1.000  175      KEGG:hsa05145                  Toxoplasmosis
+  1.000    47   1.000   47      REACT:R-HSA-5218920            VEGFR2 mediated vascular permeability
+  0.923    12   0.923   13      KEGG:hsa04020                  Calcium signaling pathway
+  0.929    13   0.929   14      REACT:R-HSA-70221              Glycogen breakdown (glycogenolysis)
+  1.000    22   1.000   22      REACT:R-HSA-389359             CD28 dependent Vav1 pathway
+  1.000    19   1.000   19      REACT:R-HSA-202733             Cell surface interactions at the vascular wall
+  1.000    31   1.000   31      REACT:R-HSA-2219530            Constitutive Signaling by Aberrant PI3K in Cancer
+  1.000    22   1.000   22      REACT:R-HSA-202433             Generation of second messenger molecules
+  1.000    22   1.000   22      REACT:R-HSA-162906             HIV Infection
+  1.000    22   1.000   22      REACT:R-HSA-162909             Host Interactions of HIV factors
+  0.978    45   0.978   46      REACT:R-HSA-5663205            Infectious disease
+  1.000    42   1.000   42      KEGG:hsa04650                  Natural killer cell mediated cytotoxicity
+  1.000    14   1.000   14      REACT:R-HSA-164944             Nef and signal transduction
+  1.000    14   1.000   14      REACT:R-HSA-167590             Nef Mediated CD4 Down-regulation
+  1.000    14   1.000   14      REACT:R-HSA-164938             Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters
+  1.000    80   1.000   80      KEGG:hsa04380                  Osteoclast differentiation
+  1.000    14   1.000   14      REACT:R-HSA-389948             PD-1 signaling
+  1.000    15   1.000   15      REACT:R-HSA-210990             PECAM1 interactions
+  1.000    14   1.000   14      REACT:R-HSA-202427             Phosphorylation of CD3 and TCR zeta chains
+  1.000    21   1.000   21      KEGG:hsa05340                  Primary immunodeficiency
+  1.000    15   1.000   15      REACT:R-HSA-1433559            Regulation of KIT signaling
+  1.000   115   1.000  115      KEGG:hsa04659                  Th17 cell differentiation
+  1.000   114   1.000  114      KEGG:hsa04658                  Th1 and Th2 cell differentiation
+  1.000    14   1.000   14      REACT:R-HSA-164952             The role of Nef in HIV-1 replication and disease pathogenesis
+  1.000    14   1.000   14      REACT:R-HSA-202430             Translocation of ZAP-70 to Immunological synapse
+  1.000    31   1.000   31      KEGG:hsa05221                  Acute myeloid leukemia
+  1.000    25   1.000   25      KEGG:hsa04662                  B cell receptor signaling pathway
+  1.000    35   1.000   35      KEGG:hsa05219                  Bladder cancer
+  1.000    51   1.000   51      KEGG:hsa05230                  Central carbon metabolism in cancer
+  0.947    18   0.947   19      KEGG:hsa05220                  Chronic myeloid leukemia
+  1.000    28   1.000   28      REACT:R-HSA-373760             L1CAM interactions
+  1.000    19   1.000   19      KEGG:hsa04720                  Long-term potentiation
+  1.000    20   1.000   20      REACT:R-HSA-5674135            MAP2K and MAPK activation
+  1.000    95   1.000   95      REACT:R-HSA-112411             MAPK1 (ERK2) activation
+  1.000    17   1.000   17      KEGG:hsa_M00687                MAPK (ERK1/2) signaling
+  1.000    45   1.000   45      KEGG:hsa04010                  MAPK signaling pathway
+  1.000    17   1.000   17      REACT:R-HSA-5674499            Negative feedback regulation of MAPK pathway
+  1.000    17   1.000   17      REACT:R-HSA-5675221            Negative regulation of MAPK pathway
+  1.000    73   1.000   73      REACT:R-HSA-6802957            Oncogenic MAPK signaling
+  1.000    73   1.000   73      REACT:R-HSA-6802955            Paradoxical activation of RAF signaling by kinase inactive BRAF
+  1.000    17   1.000   17      KEGG:hsa05020                  Prion diseases
+  1.000    71   1.000   71      KEGG:hsa04917                  Prolactin signaling pathway
+  1.000    71   1.000   71      REACT:R-HSA-5673000            RAF activation
+  1.000   112   1.000  112      REACT:R-HSA-112409             RAF-independent MAPK1/3 activation
+  1.000    64   1.000   64      KEGG:hsa05211                  Renal cell carcinoma
+  1.000    73   1.000   73      REACT:R-HSA-6802952            Signaling by BRAF and RAF fusions
+  1.000    20   1.000   20      REACT:R-HSA-6802948            Signaling by high-kinase activity BRAF mutants
+  1.000    73   1.000   73      REACT:R-HSA-6802946            Signaling by moderate kinase activity BRAF mutants
+  1.000    73   1.000   73      REACT:R-HSA-6802949            Signaling by RAS mutants
+  1.000    27   1.000   27      REACT:R-HSA-445144             Signal transduction by L1
+  1.000    28   1.000   28      KEGG:hsa05216                  Thyroid cancer
+  1.000    57   1.000   57      KEGG:hsa04620                  Toll-like receptor signaling pathway
+  1.000    17   1.000   17      REACT:R-HSA-5339562            Uptake and actions of bacterial toxins
+  1.000    17   1.000   17      REACT:R-HSA-5210891            Uptake and function of anthrax toxins
+  1.000    58   1.000   58      REACT:R-HSA-166054             Activated TLR4 signalling
+  1.000    17   1.000   17      KEGG:hsa05210                  Colorectal cancer
+  1.000    20   1.000   20      KEGG:hsa04320                  Dorso-ventral axis formation
+  1.000    36   1.000   36      KEGG:hsa04666                  Fc gamma R-mediated phagocytosis
+  1.000    56   1.000   56      REACT:R-HSA-446652             Interleukin-1 signaling
+  1.000    16   1.000   16      REACT:R-HSA-5684264            MAP3K8 (TPL2)-dependent MAPK1/3 activation
+  1.000   111   1.000  111      REACT:R-HSA-110056             MAPK3 (ERK1) activation
+  1.000    17   1.000   17      REACT:R-HSA-450294             MAP kinase activation in TLR cascade
+  1.000    56   1.000   56      REACT:R-HSA-975871             MyD88 cascade initiated on plasma membrane
+  1.000    56   1.000   56      REACT:R-HSA-975155             MyD88 dependent cascade initiated on endosome
+  1.000    17   1.000   17      REACT:R-HSA-166166             MyD88-independent TLR3/TLR4 cascade
+  1.000    58   1.000   58      REACT:R-HSA-166058             MyD88:Mal cascade initiated on plasma membrane
+  1.000    60   1.000   60      KEGG:hsa05212                  Pancreatic cancer
+  1.000    21   1.000   21      KEGG:hsa04668                  TNF signaling pathway
+  1.000    56   1.000   56      REACT:R-HSA-168142             Toll Like Receptor 10 (TLR10) Cascade
+  1.000    58   1.000   58      REACT:R-HSA-181438             Toll Like Receptor 2 (TLR2) Cascade
+  1.000    17   1.000   17      REACT:R-HSA-168164             Toll Like Receptor 3 (TLR3) Cascade
+  1.000    58   1.000   58      REACT:R-HSA-166016             Toll Like Receptor 4 (TLR4) Cascade
+  1.000    56   1.000   56      REACT:R-HSA-168176             Toll Like Receptor 5 (TLR5) Cascade
+  1.000    56   1.000   56      REACT:R-HSA-168181             Toll Like Receptor 7/8 (TLR7/8) Cascade
+  1.000    56   1.000   56      REACT:R-HSA-168138             Toll Like Receptor 9 (TLR9) Cascade
+  1.000    58   1.000   58      REACT:R-HSA-168898             Toll-Like Receptors Cascades
+  1.000    58   1.000   58      REACT:R-HSA-168179             Toll Like Receptor TLR1:TLR2 Cascade
+  1.000    58   1.000   58      REACT:R-HSA-168188             Toll Like Receptor TLR6:TLR2 Cascade
+  1.000    56   1.000   56      REACT:R-HSA-975138             TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation
+  1.000    17   1.000   17      REACT:R-HSA-937061             TRIF-mediated TLR3/TLR4 signaling
+  0.800     4   0.800    5      KEGG:hsa_M00049                Adenine ribonucleotide biosynthesis IMP => ADP ATP
+  1.000     2   1.000    2      KEGG:hsa_M00052                Pyrimidine ribonucleotide biosynthesis UMP => UDP/UTP CDP/CTP
+  0.929    13   0.929   14      REACT:R-HSA-73848              Pyrimidine metabolism
+  0.889     8   0.889    9      REACT:R-HSA-73614              Pyrimidine salvage reactions
+  1.000     2   1.000    2      KEGG:hsa_M00130                Inositol phosphate metabolism PI=> PIP2 => Ins(1 4 5)P3 => Ins(1 3 4 5)P4
+  1.000     2   1.000    2      REACT:R-HSA-1855204            Synthesis of IP3 and IP4 in the cytosol
+  1.000    58   1.000   58      KEGG:hsa04920                  Adipocytokine signaling pathway
+  1.000     3   1.000    3      REACT:R-HSA-416476             G alpha (q) signalling events
+  1.000     4   1.000    4      REACT:R-HSA-8856825            Cargo recognition for clathrin-mediated endocytosis
+  1.000     4   1.000    4      REACT:R-HSA-8856828            Clathrin-mediated endocytosis
+  1.000     4   1.000    4      REACT:R-HSA-5637810            Constitutive Signaling by EGFRvIII
+  1.000     4   1.000    4      REACT:R-HSA-1236382            Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants
+  1.000    11   1.000   11      KEGG:hsa04060                  Cytokine-cytokine receptor interaction
+  1.000     4   1.000    4      REACT:R-HSA-8863795            Downregulation of ERBB2 signaling
+  1.000     6   1.000    6      REACT:R-HSA-182971             EGFR downregulation
+  1.000     4   1.000    4      REACT:R-HSA-2179392            EGFR Transactivation by Gastrin
+  1.000    16   1.000   16      KEGG:hsa05120                  Epithelial cell signaling in Helicobacter pylori infection
+  1.000     5   1.000    5      REACT:R-HSA-8847993            ERBB2 Activates PTK6 Signaling
+  1.000     5   1.000    5      REACT:R-HSA-6785631            ERBB2 Regulates Cell Motility
+  1.000     4   1.000    4      REACT:R-HSA-1963640            GRB2 events in ERBB2 signaling
+  1.000     4   1.000    4      REACT:R-HSA-5638303            Inhibition of Signaling by Overexpressed EGFR
+  1.000    12   1.000   12      REACT:R-HSA-199991             Membrane Trafficking
+  1.000     4   1.000    4      REACT:R-HSA-1963642            PI3K events in ERBB2 signaling
+  1.000     4   1.000    4      REACT:R-HSA-1251932            PLCG1 events in ERBB2 signaling
+  1.000     5   1.000    5      REACT:R-HSA-8857538            PTK6 promotes HIF1A stabilization
+  1.000     4   1.000    4      REACT:R-HSA-1250196            SHC1 events in ERBB2 signaling
+  1.000     4   1.000    4      REACT:R-HSA-1643713            Signaling by EGFR in Cancer
+  1.000     4   1.000    4      REACT:R-HSA-5637812            Signaling by EGFRvIII in Cancer
+  1.000     7   1.000    7      REACT:R-HSA-1227986            Signaling by ERBB2
+  1.000     4   1.000    4      REACT:R-HSA-1236394            Signaling by ERBB4
+  1.000     4   1.000    4      REACT:R-HSA-5637815            Signaling by Ligand-Responsive EGFR Variants in Cancer
+  1.000     4   1.000    4      REACT:R-HSA-5638302            Signaling by Overexpressed Wild-Type EGFR in Cancer
+  1.000     4   1.000    4      REACT:R-HSA-8866910            TFAP2 (AP-2) family regulates transcription of growth factors and their receptors
+  1.000     4   1.000    4      REACT:R-HSA-8864260            Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors
+  1.000    12   1.000   12      REACT:R-HSA-5653656            Vesicle-mediated transport
+  1.000     3   1.000    3      KEGG:hsa_M00109                C21-Steroid hormone biosynthesis progesterone => cortisol/cortisone
+  1.000     3   1.000    3      REACT:R-HSA-194002             Glucocorticoid biosynthesis
+  1.000     2   1.000    2      KEGG:hsa_M00003                Gluconeogenesis oxaloacetate => fructose-6P
+  1.000     2   1.000    2      KEGG:hsa_M00002                Glycolysis core module involving three-carbon compounds
+  1.000     2   1.000    2      KEGG:hsa_M00001                Glycolysis (Embden-Meyerhof pathway) glucose => pyruvate
+  1.000     4   1.000    4      KEGG:hsa00010                  Glycolysis / Gluconeogenesis
+  1.000   106   1.000  106      REACT:R-HSA-6785807            Interleukin-4 and 13 signaling
+  1.000    43   1.000   43      REACT:R-HSA-1266695            Interleukin-7 signaling
+  1.000    99   1.000   99      KEGG:hsa_M00684                JAK-STAT signaling
+  1.000   105   1.000  105      KEGG:hsa04630                  Jak-STAT signaling pathway
+  1.000    61   1.000   61      KEGG:hsa04933                  AGE-RAGE signaling pathway in diabetic complications
+  0.833     5   0.833    6      REACT:R-HSA-73621              Pyrimidine catabolism
+  1.000    11   1.000   11      REACT:R-HSA-5663084            Diseases of carbohydrate metabolism
+  1.000    11   1.000   11      REACT:R-HSA-5668914            Diseases of metabolism
+  1.000    11   1.000   11      REACT:R-HSA-3229121            Glycogen storage diseases
+  1.000    11   1.000   11      REACT:R-HSA-3828062            Glycogen storage disease type 0 (muscle GYS1)
+  1.000    11   1.000   11      REACT:R-HSA-5357609            Glycogen storage disease type II (GAA)
+  1.000    11   1.000   11      REACT:R-HSA-3878781            Glycogen storage disease type IV (GBE1)
+  1.000    11   1.000   11      REACT:R-HSA-3814836            Glycogen storage disease type XV (GYG1)
+  1.000    11   1.000   11      REACT:R-HSA-3322077            Glycogen synthesis
+  1.000    11   1.000   11      REACT:R-HSA-5357572            Lysosomal glycogen catabolism
+  1.000    11   1.000   11      REACT:R-HSA-3785653            Myoclonic epilepsy of Lafora
+  1.000    11   1.000   11      KEGG:hsa00500                  Starch and sucrose metabolism
+  1.000    41   1.000   41      REACT:R-HSA-1169410            Antiviral mechanism by IFN-stimulated genes
+  0.667     2   0.667    3      REACT:R-HSA-168253             Host Interactions with Influenza Factors
+  0.667     2   0.667    3      REACT:R-HSA-168254             Influenza Infection
+  0.667     2   0.667    3      REACT:R-HSA-169131             Inhibition of PKR
+  1.000    99   1.000   99      REACT:R-HSA-913531             Interferon Signaling
+  1.000    41   1.000   41      REACT:R-HSA-1169408            ISG15 antiviral mechanism
+  0.667     2   0.667    3      REACT:R-HSA-168276             NS1 Mediated Effects on Host Pathways
+  0.857     6   0.857    7      KEGG:hsa04141                  Protein processing in endoplasmic reticulum
+  0.981    53   0.981   54      REACT:R-HSA-3247509            Chromatin modifying enzymes
+  0.981    53   0.981   54      REACT:R-HSA-4839726            Chromatin organization
+  1.000    53   1.000   53      REACT:R-HSA-982772             Growth hormone receptor signaling
+  1.000    94   1.000   94      REACT:R-HSA-6788467            IL-6-type cytokine receptor ligand interactions
+  1.000    93   1.000   93      REACT:R-HSA-877300             Interferon gamma signaling
+  1.000    94   1.000   94      REACT:R-HSA-6783589            Interleukin-6 family signaling
+  1.000    94   1.000   94      REACT:R-HSA-1059683            Interleukin-6 signaling
+  1.000   131   1.000  131      KEGG:hsa05140                  Leishmaniasis
+  1.000    53   1.000   53      REACT:R-HSA-1170546            Prolactin receptor signaling
+  1.000    91   1.000   91      REACT:R-HSA-877312             Regulation of IFNG signaling
+  0.981    53   0.981   54      REACT:R-HSA-3214858            RMTs methylate histone arginines
+  1.000   141   1.000  141      KEGG:hsa05152                  Tuberculosis
+  1.000     2   1.000    2      REACT:R-HSA-1482788            Acyl chain remodelling of PC
+  1.000     2   1.000    2      REACT:R-HSA-1482839            Acyl chain remodelling of PE
+  1.000     2   1.000    2      REACT:R-HSA-1482925            Acyl chain remodelling of PG
+  1.000     2   1.000    2      REACT:R-HSA-1482922            Acyl chain remodelling of PI
+  1.000     2   1.000    2      REACT:R-HSA-1482801            Acyl chain remodelling of PS
+  1.000     2   1.000    2      KEGG:hsa00592                  alpha-Linolenic acid metabolism
+  1.000     2   1.000    2      KEGG:hsa00565                  Ether lipid metabolism
+  1.000     2   1.000    2      KEGG:hsa04975                  Fat digestion and absorption
+  1.000     3   1.000    3      REACT:R-HSA-1483206            Glycerophospholipid biosynthesis
+  1.000     3   1.000    3      KEGG:hsa00564                  Glycerophospholipid metabolism
+  1.000     2   1.000    2      KEGG:hsa00591                  Linoleic acid metabolism
+  1.000     3   1.000    3      REACT:R-HSA-1483257            Phospholipid metabolism
+  1.000     2   1.000    2      REACT:R-HSA-1483166            Synthesis of PA
+  1.000    15   1.000   15      REACT:R-HSA-68882              Mitotic Anaphase
+  1.000    15   1.000   15      REACT:R-HSA-2555396            Mitotic Metaphase and Anaphase
+  1.000    14   1.000   14      REACT:R-HSA-68877              Mitotic Prometaphase
+  1.000    16   1.000   16      REACT:R-HSA-68886              M Phase
+  1.000    14   1.000   14      REACT:R-HSA-2500257            Resolution of Sister Chromatid Cohesion
+  1.000    18   1.000   18      REACT:R-HSA-5663220            RHO GTPases Activate Formins
+  1.000    15   1.000   15      REACT:R-HSA-2467813            Separation of Sister Chromatids
+  1.000    42   1.000   42      REACT:R-HSA-428540             Activation of Rac
+  1.000    46   1.000   46      REACT:R-HSA-376176             Signaling by Robo receptor
+  1.000     3   1.000    3      KEGG:hsa_M00691                DNA damage-induced cell cycle checkpoints
+  0.667     2   0.667    3      REACT:R-HSA-5693606            DNA Double Strand Break Response
+  1.000     4   1.000    4      REACT:R-HSA-69473              G2/M DNA damage checkpoint
+  1.000     5   1.000    5      REACT:R-HSA-69610              p53-Independent DNA Damage Response
+  1.000     5   1.000    5      REACT:R-HSA-69613              p53-Independent G1/S DNA damage checkpoint
+  0.667     2   0.667    3      REACT:R-HSA-5693565            Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand b
+  1.000     3   1.000    3      REACT:R-HSA-69541              Stabilization of p53
+  1.000     5   1.000    5      REACT:R-HSA-69601              Ubiquitin Mediated Degradation of Phosphorylated Cdc25A
+  0.818    36   1.000   44      KEGG:hsa05010                  Alzheimer's disease
+  0.680    17   1.000   25      KEGG:hsa04260                  Cardiac muscle contraction
+  0.667    16   1.000   24      KEGG:hsa_M00154                Cytochrome c oxidase
+  0.818    36   1.000   44      KEGG:hsa05016                  Huntington's disease
+  0.830    39   1.000   47      KEGG:hsa00190                  Oxidative phosphorylation
+  0.818    36   1.000   44      REACT:R-HSA-611105             Respiratory electron transport
+  0.818    36   1.000   44      REACT:R-HSA-163200             Respiratory electron transport ATP synthesis by chemiosmotic coupling and heat production by uncoupl
+  0.818    36   1.000   44      REACT:R-HSA-1428517            The citric acid (TCA) cycle and respiratory electron transport
+  0.680    17   1.000   25      REACT:R-HSA-5628897            TP53 Regulates Metabolic Genes
+  1.000     3   1.000    3      REACT:R-HSA-1169091            Activation of NF-kappaB in B cells
+  1.000     5   1.000    5      REACT:R-HSA-3858494            Beta-catenin independent WNT signaling
+  1.000     2   1.000    2      REACT:R-HSA-4086398            Ca2+ pathway
+  1.000     7   1.000    7      REACT:R-HSA-5688426            Deubiquitination
+  1.000     4   1.000    4      KEGG:hsa_M00688                MAPK (JNK) signaling
+  1.000     4   1.000    4      KEGG:hsa_M00689                MAPK (p38) signaling
+  1.000    82   1.000   82      KEGG:hsa04621                  NOD-like receptor signaling pathway
+  1.000     6   1.000    6      REACT:R-HSA-195721             Signaling by Wnt
+  1.000    40   1.000   40      KEGG:hsa_M00686                Toll-like receptor signaling
+  1.000     5   1.000    5      REACT:R-HSA-5689880            Ub-specific processing proteases
+  1.000     4   1.000    4      KEGG:hsa04310                  Wnt signaling pathway
+  1.000     6   1.000    6      REACT:R-HSA-6791226            Major pathway of rRNA processing in the nucleolus and cytosol
+  1.000     3   1.000    3      KEGG:hsa03008                  Ribosome biogenesis in eukaryotes
+  1.000     7   1.000    7      REACT:R-HSA-72312              rRNA processing
+  1.000     6   1.000    6      REACT:R-HSA-8868773            rRNA processing in the nucleus and cytosol
+  1.000     6   1.000    6      KEGG:hsa04340                  Hedgehog signaling pathway
+  1.000     6   1.000    6      REACT:R-HSA-194840             Rho GTPase cycle
+  1.000    11   1.000   11      REACT:R-HSA-5357769            Caspase activation via extrinsic apoptotic signalling pathway
+  1.000    11   1.000   11      REACT:R-HSA-418889             Ligand-independent caspase activation via DCC
+  1.000    39   1.000   39      KEGG:hsa05142                  Chagas disease (American trypanosomiasis)
+  1.000    41   1.000   41      REACT:R-HSA-5602358            Diseases associated with the TLR signaling cascade
+  1.000    41   1.000   41      REACT:R-HSA-5260271            Diseases of Immune System
+  1.000    41   1.000   41      REACT:R-HSA-5603041            IRAK4 deficiency (TLR2/4)
+  1.000    39   1.000   39      REACT:R-HSA-5603037            IRAK4 deficiency (TLR5)
+  1.000    41   1.000   41      REACT:R-HSA-5602498            MyD88 deficiency (TLR2/4)
+  1.000    39   1.000   39      REACT:R-HSA-5602680            MyD88 deficiency (TLR5)
+  1.000    40   1.000   40      KEGG:hsa05133                  Pertussis
+  1.000    39   1.000   39      REACT:R-HSA-975110             TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling
+  1.000     7   1.000    7      REACT:R-HSA-2033519            Activated point mutants of FGFR2
+  1.000     7   1.000    7      REACT:R-HSA-5654696            Downstream signaling of activated FGFR2
+  1.000     7   1.000    7      REACT:R-HSA-190377             FGFR2b ligand binding and activation
+  1.000     7   1.000    7      REACT:R-HSA-190375             FGFR2c ligand binding and activation
+  1.000     7   1.000    7      REACT:R-HSA-190241             FGFR2 ligand binding and activation
+  1.000     7   1.000    7      REACT:R-HSA-1839126            FGFR2 mutant receptor activation
+  1.000     7   1.000    7      REACT:R-HSA-5654700            FRS-mediated FGFR2 signaling
+  1.000     8   1.000    8      REACT:R-HSA-5654727            Negative regulation of FGFR2 signaling
+  1.000     7   1.000    7      REACT:R-HSA-5654221            Phospholipase C-mediated cascade; FGFR2
+  1.000     7   1.000    7      REACT:R-HSA-5654695            PI-3K cascade:FGFR2
+  1.000     7   1.000    7      REACT:R-HSA-5654699            SHC-mediated cascade:FGFR2
+  1.000    11   1.000   11      REACT:R-HSA-190236             Signaling by FGFR
+  1.000     8   1.000    8      REACT:R-HSA-5654738            Signaling by FGFR2
+  1.000     7   1.000    7      REACT:R-HSA-2023837            Signaling by FGFR2 amplification mutants
+  1.000     7   1.000    7      REACT:R-HSA-8853333            Signaling by FGFR2 fusions
+  1.000     7   1.000    7      REACT:R-HSA-8851708            Signaling by FGFR2 IIIa TM
+  1.000     7   1.000    7      REACT:R-HSA-5655253            Signaling by FGFR2 in disease
+  1.000    10   1.000   10      REACT:R-HSA-1226099            Signaling by FGFR in disease
+  1.000     6   1.000    6      REACT:R-HSA-3928665            EPH-ephrin mediated repulsion of cells
+  1.000     6   1.000    6      REACT:R-HSA-176814             Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins
+  1.000     3   1.000    3      REACT:R-HSA-2980767            Activation of NIMA Kinases NEK9 NEK6 NEK7
+  1.000    11   1.000   11      REACT:R-HSA-5620912            Anchoring of the basal body to the plasma membrane
+  1.000     8   1.000    8      REACT:R-HSA-380287             Centrosome maturation
+  1.000    11   1.000   11      REACT:R-HSA-5617833            Cilium Assembly
+  1.000     3   1.000    3      REACT:R-HSA-2299718            Condensation of Prophase Chromosomes
+  1.000     3   1.000    3      REACT:R-HSA-162658             Golgi Cisternae Pericentriolar Stack Reorganization
+  1.000     8   1.000    8      REACT:R-HSA-380259             Loss of Nlp from mitotic centrosomes
+  1.000     8   1.000    8      REACT:R-HSA-380284             Loss of proteins required for interphase microtubule organization from the centrosome
+  1.000     2   1.000    2      REACT:R-HSA-68881              Mitotic Metaphase/Anaphase Transition
+  1.000     3   1.000    3      REACT:R-HSA-68875              Mitotic Prophase
+  1.000     2   1.000    2      REACT:R-HSA-68884              Mitotic Telophase/Cytokinesis
+  1.000     3   1.000    3      REACT:R-HSA-2980766            Nuclear Envelope Breakdown
+  1.000    17   1.000   17      REACT:R-HSA-1852241            Organelle biogenesis and maintenance
+  1.000     3   1.000    3      REACT:R-HSA-176417             Phosphorylation of Emi1
+  1.000     3   1.000    3      REACT:R-HSA-176412             Phosphorylation of the APC/C
+  1.000     2   1.000    2      REACT:R-HSA-156711             Polo-like kinase mediated events
+  1.000     8   1.000    8      REACT:R-HSA-380270             Recruitment of mitotic centrosome proteins and complexes
+  1.000     5   1.000    5      REACT:R-HSA-8852276            The role of GTSE1 in G2/M progression after G2 checkpoint
+  0.750     3   0.750    4      REACT:R-HSA-375170             CDO in myogenesis
+  0.750     3   0.750    4      REACT:R-HSA-525793             Myogenesis
+  0.800     4   0.800    5      KEGG:hsa05130                  Pathogenic Escherichia coli infection
+  0.800     4   0.800    5      KEGG:hsa05131                  Shigellosis
+  1.000     4   1.000    4      REACT:R-HSA-176409             APC/C:Cdc20 mediated degradation of mitotic proteins
+  1.000     4   1.000    4      REACT:R-HSA-179419             APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpo
+  1.000     2   1.000    2      REACT:R-HSA-500753             Pyrimidine biosynthesis
+  1.000     5   1.000    5      REACT:R-HSA-379401             Dopamine clearance from the synaptic cleft
+  1.000     5   1.000    5      REACT:R-HSA-379397             Enzymatic degradation of dopamine by COMT
+  1.000     5   1.000    5      REACT:R-HSA-379398             Enzymatic degradation of Dopamine by monoamine oxidase
+  1.000     6   1.000    6      REACT:R-HSA-156581             Methylation
+  1.000     5   1.000    5      REACT:R-HSA-112311             Neurotransmitter Clearance In The Synaptic Cleft
+  1.000     6   1.000    6      KEGG:hsa00350                  Tyrosine metabolism
+  1.000     7   1.000    7      REACT:R-HSA-166208             mTORC1-mediated signalling
+  1.000     9   1.000    9      REACT:R-HSA-165159             mTOR signalling
+  1.000     9   1.000    9      REACT:R-HSA-109703             PKB-mediated events
+  1.000    12   1.000   12      KEGG:hsa04350                  TGF-beta signaling pathway
+  1.000     6   1.000    6      REACT:R-HSA-167200             Formation of HIV-1 elongation complex containing HIV-1 Tat
+  1.000     6   1.000    6      REACT:R-HSA-167152             Formation of HIV elongation complex in the absence of HIV Tat
+  1.000     6   1.000    6      REACT:R-HSA-112382             Formation of RNA Pol II elongation complex
+  1.000     6   1.000    6      REACT:R-HSA-167287             HIV elongation arrest and recovery
+  1.000     6   1.000    6      REACT:R-HSA-162587             HIV Life Cycle
+  1.000     6   1.000    6      REACT:R-HSA-167169             HIV Transcription Elongation
+  1.000     6   1.000    6      REACT:R-HSA-176034             Interactions of Tat with host cellular proteins
+  1.000     6   1.000    6      REACT:R-HSA-162599             Late Phase of HIV Life Cycle
+  1.000     6   1.000    6      REACT:R-HSA-167290             Pausing and recovery of HIV elongation
+  1.000     6   1.000    6      REACT:R-HSA-167238             Pausing and recovery of Tat-mediated HIV elongation
+  1.000     6   1.000    6      REACT:R-HSA-674695             RNA Polymerase II Pre-transcription Events
+  1.000     6   1.000    6      REACT:R-HSA-6807505            RNA polymerase II transcribes snRNA genes
+  1.000     6   1.000    6      REACT:R-HSA-73857              RNA Polymerase II Transcription
+  1.000     6   1.000    6      REACT:R-HSA-75955              RNA Polymerase II Transcription Elongation
+  1.000     8   1.000    8      REACT:R-HSA-170834             Signaling by TGF-beta Receptor Complex
+  1.000     6   1.000    6      REACT:R-HSA-2173796            SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+  1.000     6   1.000    6      REACT:R-HSA-167246             Tat-mediated elongation of the HIV-1 transcript
+  1.000     6   1.000    6      REACT:R-HSA-167243             Tat-mediated HIV elongation arrest and recovery
+  1.000    10   1.000   10      REACT:R-HSA-6796648            TP53 Regulates Transcription of DNA Repair Genes
+  1.000     7   1.000    7      REACT:R-HSA-2173793            Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer
+  1.000     6   1.000    6      REACT:R-HSA-167172             Transcription of the HIV genome
+  1.000     2   1.000    2      REACT:R-HSA-2028269            Signaling by Hippo
+  1.000     4   1.000    4      REACT:R-HSA-3299685            Detoxification of Reactive Oxygen Species
+  1.000     7   1.000    7      REACT:R-HSA-3928664            Ephrin signaling
+  1.000     7   1.000    7      REACT:R-HSA-2029481            FCGR activation
+  1.000     4   1.000    4      REACT:R-HSA-8876384            Listeria monocytogenes entry into host cells
+  1.000     4   1.000    4      KEGG:hsa04137                  Mitophagy - animal
+  1.000     2   1.000    2      REACT:R-HSA-5654726            Negative regulation of FGFR1 signaling
+  1.000     3   1.000    3      REACT:R-HSA-5654732            Negative regulation of FGFR3 signaling
+  1.000     2   1.000    2      REACT:R-HSA-5654736            Signaling by FGFR1
+  1.000     3   1.000    3      REACT:R-HSA-5654741            Signaling by FGFR3
+  1.000     3   1.000    3      REACT:R-HSA-456926             Thrombin signalling through proteinase activated receptors (PARs)
+  1.000     9   1.000    9      KEGG:hsa04530                  Tight junction
+  1.000    41   1.000   41      REACT:R-HSA-909733             Interferon alpha/beta signaling
+  1.000    41   1.000   41      REACT:R-HSA-6783783            Interleukin-10 signaling
+  1.000    41   1.000   41      REACT:R-HSA-912694             Regulation of IFNA signaling
+  1.000     3   1.000    3      REACT:R-HSA-8875360            InlB-mediated entry of Listeria monocytogenes into host cell
+  1.000     3   1.000    3      KEGG:hsa05144                  Malaria
+  1.000     3   1.000    3      REACT:R-HSA-8851907            MET activates PI3K/AKT signaling
+  1.000     3   1.000    3      REACT:R-HSA-8865999            MET activates PTPN11
+  1.000     3   1.000    3      REACT:R-HSA-8875555            MET activates RAP1 and RAC1
+  1.000     3   1.000    3      REACT:R-HSA-8851805            MET activates RAS signaling
+  1.000     3   1.000    3      REACT:R-HSA-8875791            MET activates STAT3
+  1.000     3   1.000    3      REACT:R-HSA-8875513            MET interacts with TNS proteins
+  1.000     3   1.000    3      REACT:R-HSA-6806942            MET Receptor Activation
+  1.000     3   1.000    3      REACT:R-HSA-8875656            MET receptor recycling
+  1.000     3   1.000    3      REACT:R-HSA-6807004            Negative regulation of MET activity
+  1.000     6   1.000    6      REACT:R-HSA-400685             Sema4D in semaphorin signaling
+  1.000     4   1.000    4      REACT:R-HSA-416550             Sema4D mediated inhibition of cell attachment and migration
+  1.000    12   1.000   12      REACT:R-HSA-373755             Semaphorin interactions
+  1.000     6   1.000    6      REACT:R-HSA-5621575            CD209 (DC-SIGN) signaling
+  1.000     5   1.000    5      REACT:R-HSA-376172             DSCAM interactions
+  1.000     5   1.000    5      KEGG:hsa04392                  Hippo signaling pathway -multiple species
+  1.000    11   1.000   11      REACT:R-HSA-5687128            MAPK6/MAPK4 signaling
+  1.000     8   1.000    8      REACT:R-HSA-5627123            RHO GTPases activate PAKs
+  1.000     6   1.000    6      REACT:R-HSA-399954             Sema3A PAK dependent Axon repulsion
+  1.000     4   1.000    4      KEGG:hsa_M00679                BMP signaling
+  1.000     6   1.000    6      KEGG:hsa04390                  Hippo signaling pathway
+  1.000     2   1.000    2      REACT:R-HSA-201451             Signaling by BMP
+  1.000     4   1.000    4      REACT:R-HSA-2262749            Cellular response to hypoxia
+  1.000     2   1.000    2      REACT:R-HSA-1234158            Regulation of gene expression by Hypoxia-inducible Factor
+  1.000     4   1.000    4      REACT:R-HSA-1234174            Regulation of Hypoxia-inducible Factor (HIF) by oxygen
+  1.000     2   1.000    2      REACT:R-HSA-373076             Class A/1 (Rhodopsin-like receptors)
+  1.000     2   1.000    2      REACT:R-HSA-140875             Common Pathway of Fibrin Clot Formation
+  1.000     6   1.000    6      REACT:R-HSA-140877             Formation of Fibrin Clot (Clotting Cascade)
+  1.000     4   1.000    4      REACT:R-HSA-163841             Gamma carboxylation hypusine formation and arylsulfatase activation
+  1.000     4   1.000    4      REACT:R-HSA-159740             Gamma-carboxylation of protein precursors
+  1.000     4   1.000    4      REACT:R-HSA-159854             Gamma-carboxylation transport and amino-terminal cleavage of proteins
+  1.000     2   1.000    2      REACT:R-HSA-500792             GPCR ligand binding
+  1.000     4   1.000    4      REACT:R-HSA-140837             Intrinsic Pathway of Fibrin Clot Formation
+  1.000     2   1.000    2      REACT:R-HSA-375276             Peptide ligand-binding receptors
+  1.000     2   1.000    2      REACT:R-HSA-381426             Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Bi
+  1.000     4   1.000    4      REACT:R-HSA-159782             Removal of aminoterminal propeptides from gamma-carboxylated proteins
+  1.000     4   1.000    4      REACT:R-HSA-159763             Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi appar
+  1.000     2   1.000    2      KEGG:hsa04640                  Hematopoietic cell lineage
+  1.000     2   1.000    2      REACT:R-HSA-535734             Fatty acid triacylglycerol and ketone body metabolism
+  1.000    10   1.000   10      REACT:R-HSA-2871809            FCERI mediated Ca+2 mobilization
+  1.000     6   1.000    6      REACT:R-HSA-1592230            Mitochondrial biogenesis
+  1.000     4   1.000    4      REACT:R-HSA-2151201            Transcriptional activation of mitochondrial biogenesis
+  1.000     2   1.000    2      REACT:R-HSA-173736             Alternative complement activation
+  1.000     2   1.000    2      REACT:R-HSA-166658             Complement cascade
+  1.000     2   1.000    2      REACT:R-HSA-166663             Initial triggering of complement
+  1.000     2   1.000    2      REACT:R-HSA-114608             Platelet degranulation
+  1.000     2   1.000    2      REACT:R-HSA-76005              Response to elevated platelet cytosolic Ca2+
+  1.000     2   1.000    2      KEGG:hsa05150                  Staphylococcus aureus infection
+  1.000     3   1.000    3      REACT:R-HSA-416482             G alpha (12/13) signalling events
+  1.000     2   1.000    2      REACT:R-HSA-5689896            Ovarian tumor domain proteases
+  1.000     3   1.000    3      REACT:R-HSA-4086400            PCP/CE pathway
+  1.000     2   1.000    2      REACT:R-HSA-8849471            PTK6 Regulates RHO GTPases RAS GTPase and MAP kinases
+  1.000     3   1.000    3      REACT:R-HSA-5625970            RHO GTPases activate KTN1
+  1.000     3   1.000    3      REACT:R-HSA-416572             Sema4D induced cell migration and growth-cone collapse
+  1.000     2   1.000    2      REACT:R-HSA-428543             Inactivation of Cdc42 and Rac
+  1.000     2   1.000    2      REACT:R-HSA-5626467            RHO GTPases activate IQGAPs
+  1.000     2   1.000    2      KEGG:hsa05132                  Salmonella infection
+  1.000     3   1.000    3      REACT:R-HSA-75035              Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex
+  1.000     2   1.000    2      REACT:R-HSA-5685942            HDR through Homologous Recombination (HRR)
+  1.000     2   1.000    2      REACT:R-HSA-5693579            Homologous DNA Pairing and Strand Exchange
+  1.000     2   1.000    2      REACT:R-HSA-5693616            Presynaptic phase of homologous DNA pairing and strand exchange
+  1.000     3   1.000    3      REACT:R-HSA-1614558            Degradation of cysteine and homocysteine
+  1.000     4   1.000    4      KEGG:hsa00430                  Taurine and hypotaurine metabolism
+  1.000     2   1.000    2      REACT:R-HSA-2142691            Synthesis of Leukotrienes (LT) and Eoxins (EX)
+  1.000     2   1.000    2      REACT:R-HSA-1368108            BMAL1:CLOCK NPAS2 activates circadian gene expression
+  1.000     6   1.000    6      REACT:R-HSA-400253             Circadian Clock
+  1.000     2   1.000    2      REACT:R-HSA-140834             Extrinsic Pathway of Fibrin Clot Formation
+  1.000     2   1.000    2      REACT:R-HSA-8876725            Protein methylation
+  1.000     2   1.000    2      REACT:R-HSA-2151209            Activation of PPARGC1A (PGC-1alpha) by phosphorylation
+  1.000     7   1.000    7      KEGG:hsa04710                  Circadian rhythm
+  1.000     2   1.000    2      REACT:R-HSA-380972             Energy dependent regulation of mTOR by LKB1-AMPK
+  1.000     2   1.000    2      KEGG:hsa05410                  Hypertrophic cardiomyopathy (HCM)
+  1.000     2   1.000    2      REACT:R-HSA-1632852            Macroautophagy
+  1.000     3   1.000    3      REACT:R-HSA-1445148            Translocation of GLUT4 to the plasma membrane
+  1.000     8   1.000    8      REACT:R-HSA-983695             Antigen activates B Cell Receptor (BCR) leading to generation of second messengers
+  1.000     6   1.000    6      REACT:R-HSA-5621480            Dectin-2 family
+  1.000     6   1.000    6      REACT:R-HSA-912631             Regulation of signaling by CBL
+  1.000     6   1.000    6      REACT:R-HSA-2029485            Role of phospholipids in phagocytosis
+  1.000     3   1.000    3      REACT:R-HSA-4641257            Degradation of AXIN
+  1.000     3   1.000    3      REACT:R-HSA-201681             TCF dependent signaling in response to WNT
+  1.000     2   1.000    2      REACT:R-HSA-209776             Amine-derived hormones
+  1.000     2   1.000    2      REACT:R-HSA-209968             Thyroxine biosynthesis
+  1.000     2   1.000    2      REACT:R-HSA-5576891            Cardiac conduction
+  1.000     3   1.000    3      REACT:R-HSA-3371556            Cellular response to heat stress
+  1.000     2   1.000    2      REACT:R-HSA-442729             CREB phosphorylation through the activation of CaMKII
+  1.000     2   1.000    2      REACT:R-HSA-399721             Glutamate Binding Activation of AMPA Receptors and Synaptic Plasticity
+  1.000     2   1.000    2      REACT:R-HSA-3371571            HSF1-dependent transactivation
+  1.000     5   1.000    5      REACT:R-HSA-983712             Ion channel transport
+  1.000     2   1.000    2      REACT:R-HSA-5578775            Ion homeostasis
+  1.000     2   1.000    2      REACT:R-HSA-936837             Ion transport by P-type ATPases
+  1.000     2   1.000    2      REACT:R-HSA-397014             Muscle contraction
+  1.000     2   1.000    2      KEGG:hsa04740                  Olfactory transduction
+  1.000     2   1.000    2      REACT:R-HSA-5576892            Phase 0 - rapid depolarisation
+  1.000     2   1.000    2      REACT:R-HSA-442982             Ras activation uopn Ca2+ infux through NMDA receptor
+  1.000     2   1.000    2      REACT:R-HSA-399719             Trafficking of AMPA receptors
+  1.000     2   1.000    2      REACT:R-HSA-438066             Unblocking of NMDA receptor glutamate binding and activation
+  1.000     2   1.000    2      REACT:R-HSA-5693571            Nonhomologous End-Joining (NHEJ)
+  1.000     2   1.000    2      REACT:R-HSA-2672351            Stimuli-sensing channels
+  1.000     4   1.000    4      REACT:R-HSA-204005             COPII (Coat Protein 2) Mediated Vesicle Transport
+  1.000     4   1.000    4      REACT:R-HSA-199977             ER to Golgi Anterograde Transport
+  1.000     4   1.000    4      REACT:R-HSA-1236975            Antigen processing-Cross presentation
+  1.000     4   1.000    4      REACT:R-HSA-983169             Class I MHC mediated antigen processing & presentation
+  1.000     4   1.000    4      REACT:R-HSA-1236974            ER-Phagosome pathway
+  1.000     3   1.000    3      KEGG:hsa05014                  Amyotrophic lateral sclerosis (ALS)
+  1.000     3   1.000    3      REACT:R-HSA-2559580            Oxidative Stress Induced Senescence
+  1.000     3   1.000    3      REACT:R-HSA-382556             ABC-family proteins mediated transport
+  1.000     3   1.000    3      REACT:R-HSA-5619084            ABC transporter disorders
+  1.000     2   1.000    2      REACT:R-HSA-983168             Antigen processing: Ubiquitination & Proteasome degradation
+  1.000     2   1.000    2      REACT:R-HSA-174154             APC/C:Cdc20 mediated degradation of Securin
+  1.000     2   1.000    2      REACT:R-HSA-68867              Assembly of the pre-replicative complex
+  1.000     2   1.000    2      REACT:R-HSA-4608870            Asymmetric localization of PCP proteins
+  1.000     2   1.000    2      REACT:R-HSA-450408             AUF1 (hnRNP D0) binds and destabilizes mRNA
+  1.000     2   1.000    2      REACT:R-HSA-174084             Autodegradation of Cdh1 by Cdh1:APC/C
+  1.000     2   1.000    2      REACT:R-HSA-349425             Autodegradation of the E3 ubiquitin ligase COP1
+  1.000     3   1.000    3      REACT:R-HSA-174184             Cdc20:Phospho-APC/C mediated degradation of Cyclin A
+  1.000     2   1.000    2      REACT:R-HSA-68827              CDT1 association with the CDC6:ORC:origin complex
+  1.000     2   1.000    2      REACT:R-HSA-1236978            Cross-presentation of soluble exogenous antigens (endosomes)
+  1.000     2   1.000    2      REACT:R-HSA-5607761            Dectin-1 mediated noncanonical NF-kB signaling
+  1.000     3   1.000    3      REACT:R-HSA-5678895            Defective CFTR causes cystic fibrosis
+  1.000     2   1.000    2      REACT:R-HSA-195253             Degradation of beta-catenin by the destruction complex
+  1.000     2   1.000    2      REACT:R-HSA-4641258            Degradation of DVL
+  1.000     2   1.000    2      REACT:R-HSA-5610780            Degradation of GLI1 by the proteasome
+  1.000     2   1.000    2      REACT:R-HSA-5610783            Degradation of GLI2 by the proteasome
+  1.000     3   1.000    3      REACT:R-HSA-5619115            Disorders of transmembrane transporters
+  1.000     2   1.000    2      REACT:R-HSA-5610785            GLI3 is processed to GLI3R by the proteasome
+  1.000     3   1.000    3      REACT:R-HSA-5358346            Hedgehog ligand biogenesis
+  1.000     2   1.000    2      REACT:R-HSA-5632684            Hedgehog 'on' state
+  1.000     3   1.000    3      REACT:R-HSA-5387390            Hh mutants abrogate ligand secretion
+  1.000     3   1.000    3      REACT:R-HSA-5362768            Hh mutants that don't undergo autocatalytic processing are degraded by ERAD
+  1.000     2   1.000    2      REACT:R-HSA-5676590            NIK-->noncanonical NF-kB signaling
+  1.000     2   1.000    2      REACT:R-HSA-1234176            Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha
+  1.000     2   1.000    2      KEGG:hsa03050                  Proteasome
+  1.000     2   1.000    2      KEGG:hsa_M00341                Proteasome 19S regulatory particle (PA700)
+  1.000     2   1.000    2      REACT:R-HSA-211733             Regulation of activated PAK-2p34 by proteasome mediated degradation
+  1.000     2   1.000    2      REACT:R-HSA-169911             Regulation of Apoptosis
+  1.000     2   1.000    2      REACT:R-HSA-450531             Regulation of mRNA stability by proteins that bind AU-rich elements
+  1.000     2   1.000    2      REACT:R-HSA-5658442            Regulation of RAS by GAPs
+  1.000     2   1.000    2      REACT:R-HSA-174113             SCF-beta-TrCP mediated degradation of Emi1
+  1.000     2   1.000    2      REACT:R-HSA-5668541            TNFR2 non-canonical NF-kB pathway
+  1.000     2   1.000    2      REACT:R-HSA-75815              Ubiquitin-dependent degradation of Cyclin D
+  1.000     2   1.000    2      REACT:R-HSA-69229              Ubiquitin-dependent degradation of Cyclin D1
+  1.000     2   1.000    2      REACT:R-HSA-5689603            UCH proteinases
+  1.000     2   1.000    2      REACT:R-HSA-180585             Vif-mediated degradation of APOBEC3G
+  1.000     2   1.000    2      REACT:R-HSA-180534             Vpu mediated degradation of CD4
+  1.000     2   1.000    2      REACT:R-HSA-532668             N-glycan trimming in the ER and Calnexin/Calreticulin cycle
+  1.000     2   1.000    2      REACT:R-HSA-383280             Nuclear Receptor transcription pathway
+  1.000     2   1.000    2      REACT:R-HSA-5654708            Downstream signaling of activated FGFR3
+  1.000     2   1.000    2      REACT:R-HSA-190371             FGFR3b ligand binding and activation
+  1.000     2   1.000    2      REACT:R-HSA-190372             FGFR3c ligand binding and activation
+  1.000     2   1.000    2      REACT:R-HSA-190239             FGFR3 ligand binding and activation
+  1.000     2   1.000    2      REACT:R-HSA-2033514            FGFR3 mutant receptor activation
+  1.000     2   1.000    2      REACT:R-HSA-5654706            FRS-mediated FGFR3 signaling
+  1.000     2   1.000    2      REACT:R-HSA-5654227            Phospholipase C-mediated cascade; FGFR3
+  1.000     2   1.000    2      REACT:R-HSA-5654710            PI-3K cascade:FGFR3
+  1.000     2   1.000    2      REACT:R-HSA-5654704            SHC-mediated cascade:FGFR3
+  1.000     2   1.000    2      REACT:R-HSA-1839130            Signaling by activated point mutants of FGFR3
+  1.000     2   1.000    2      REACT:R-HSA-8853334            Signaling by FGFR3 fusions in cancer
+  1.000     2   1.000    2      REACT:R-HSA-5655332            Signaling by FGFR3 in disease
+  1.000     2   1.000    2      REACT:R-HSA-8853338            Signaling by FGFR3 point mutants in cancer
+  1.000     2   1.000    2      REACT:R-HSA-2033515            t(4;14) translocations of FGFR3
+  1.000    20   1.000   20      REACT:R-HSA-6799198            Complex I biogenesis
+  1.000    17   1.000   17      KEGG:hsa_M00143                NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex mitochondria
+  1.000     2   1.000    2      KEGG:hsa_M00142                NADH:ubiquinone oxidoreductase mitochondria
+ 		******
+   0.9899056              874
+   0.7838565              874         1115  # of pathways with coligs
+           34   0.9610984     # where MAX possible overlap is reached
